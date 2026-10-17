@@ -163,14 +163,6 @@ Kaynak: projenin kendi `ROADMAP.md` belgesi. Tarih verilmemiştir.
 
 Yaklaşık 15.800 satır Python (projenin `ARCHITECTURE.md` belgesindeki yuvarlatılmış katman değerlerinin toplamı), 631 otomatik test (son tam çalıştırma: v1.16.12) ve her renk çifti için en az 4,5:1 metin kontrastı testi. Windows çağrıları tek bir platform katmanının arkasındadır; renk, yazı tipi ve simgeler tek bir tema dosyasında toplanır.
 
-## İletişim
-
-Faruk Buyukyavuz · ofbuyukyavuz@hotmail.com
-
-## Lisans
-
-[Yazar tarafından belirlenecek: bir `LICENSE` dosyası ekleyin ve bu satırı değiştirin.]
-
 ## Projeyi destekleyin
 
 Projeye bağış yapmak isterseniz lütfen Instagram’dan bana ulaşın: [@ofbyz](https://www.instagram.com/ofbyz)
