@@ -163,13 +163,6 @@ Source: the project's own `ROADMAP.md`. No dates are promised.
 
 About 15,800 lines of Python (the sum of the rounded per-layer counts in the project's `ARCHITECTURE.md`), 631 automated tests (last full run: v1.16.12), and a text-contrast check of at least 4.5:1 for every color pair. Windows calls sit behind one platform layer, and colors, fonts and icons live in one theme file.
 
-## Contact
-
-Faruk Buyukyavuz · ofbuyukyavuz@hotmail.com
-
-## License
-
-[To be decided by the author: add a `LICENSE` file and replace this line.]
 
 ## Support the project
 
